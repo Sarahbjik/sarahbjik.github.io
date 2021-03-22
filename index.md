@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages :)
+## Welcome to my portfolio page
 
-You can use the [editor on GitHub](https://github.com/Sarahbjik/sarahbjik.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Visualization with Tableau
+
+#### Possum migration
+Do Possums in New Zealand migrate in far fetched areas or do they prefer to have a fixed territory?
+
+#### Carbon vs NOx
+Are cars with high carbon emissions also bad at NOx?
+
+### Nepal earthquake - Random forest
+In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,12 +37,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sarahbjik/sarahbjik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
