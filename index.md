@@ -1,4 +1,4 @@
-## Welcome to my portfolio page
+## Welcome to my Portfolio Page
 
 
 
@@ -10,8 +10,12 @@ Do Possums in New Zealand migrate in far fetched areas or do they prefer to have
 #### Carbon vs NOx
 Are cars with high carbon emissions also bad at NOx?
 
-### Nepal earthquake - Random forest
+### Nepal Earthquake - Random forest
 In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
+
+### The Early Days of Corona - Data Scraping Problem
+
+### K-Means Algorithm - Inside the Code
 
 
 
