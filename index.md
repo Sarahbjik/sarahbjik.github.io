@@ -4,8 +4,7 @@
 ### The Early Days of Corona - Data Scraping Problem
 eda, data cleaning, ...
 
-![Image](https://github.com/Sarahbjik/corona/blob/main/austria_logistic_growth_2.png | width=100)
-
+<img src="https://github.com/Sarahbjik/corona/blob/main/austria_logistic_growth_2.png" width="100" height="40" />
 
 ### Visualization with Tableau
 
