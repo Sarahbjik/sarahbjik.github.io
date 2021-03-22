@@ -1,6 +1,8 @@
 ## Welcome to my Portfolio Page
 
 
+### The Early Days of Corona - Data Scraping Problem
+eda, data cleaning, ...
 
 ### Visualization with Tableau
 
@@ -12,8 +14,6 @@ Are cars with high carbon emissions also bad at NOx?
 
 ### Nepal Earthquake - Random forest
 In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
-
-### The Early Days of Corona - Data Scraping Problem
 
 ### K-Means Algorithm - Inside the Code
 
