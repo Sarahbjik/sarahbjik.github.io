@@ -1,5 +1,6 @@
 ## Welcome to my Portfolio Page
 
+The page offers an insight into some projects I have been working on.
 
 ### The Early Days of Corona - a Data Scraping Problem
 Extracting data from PDF-files.
