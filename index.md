@@ -17,9 +17,9 @@ Are cars with high carbon emissions also bad at NOx?
 ### Nepal Earthquake - Random forest
 In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
 
-### K-Means Algorithm - Inside the Code
+### [K-Means Algorithm - Inside the Code]("https://github.com/Sarahbjik/representative_based_clustering")
 
-<img src="https://github.com/Sarahbjik/representative_based_clustering/blob/main/kmeans_after_4_iterations.png?raw=true" width="500" />
+<img src="https://github.com/Sarahbjik/representative_based_clustering/blob/main/kmeans_after_4_iterations.png?raw=true" width="450" />
 
 The k-means algorithm is used to determine a number of k clusters from an arbitrary amount of (unlabeled) data points, without hierarchical relationships, residing in a defined number of dimensions. It is run in iterations, which upon convergence yield representatives for k cluster centres. A commonly used optimization target is the minimization of the sum of squared Euclidian distances of the data points to a representative. However, the algorithm is sensitive to local optima.
 
