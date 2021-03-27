@@ -9,6 +9,7 @@ Extracting data from PDF-files.
 ### Visualization with Tableau
 
 #### [Possum migration](https://public.tableau.com/profile/sarah.reisenbauer#!/vizhome/PossumTracking/Dashboard1)
+<img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/fuchskusu_map.png?raw=true" width="450" />
 Do Possums in New Zealand migrate in far fetched areas or do they prefer to have a fixed territory?
 
 #### Carbon vs NOx
