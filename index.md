@@ -10,11 +10,13 @@ Extracting data from PDF-files.
 
 #### [Possum migration](https://public.tableau.com/profile/sarah.reisenbauer#!/vizhome/PossumTracking/Dashboard1)
 <img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/fuchskusu_map.png?raw=true" width="450" />
+
 Do Possums in New Zealand migrate in far fetched areas or do they prefer to have a fixed territory?
 
 #### [Carbon vs N2O](https://public.tableau.com/profile/sarah.reisenbauer#!/vizhome/Caremissions/Dashboard1)
 <img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/carbondioxide_vs_n2o.png?raw=true" width="450" />
-Are cars with high carbon emissions also bad at NOx?
+
+Are cars with high carbon emissions also bad at N2O?
 
 ### Nepal Earthquake - Random forest
 In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
