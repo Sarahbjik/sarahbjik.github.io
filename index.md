@@ -19,28 +19,11 @@ In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of t
 
 ### K-Means Algorithm - Inside the Code
 
+<img src="https://github.com/Sarahbjik/representative_based_clustering/blob/main/photo.jpg?raw=true" width="550" />
 
+The k-means algorithm is used to determine a number of k clusters from an arbitrary amount of (unlabeled) data points, without hierarchical relationships, residing in a defined number of dimensions. It is run in iterations, which upon convergence yield representatives for k cluster centres. A commonly used optimization target is the minimization of the sum of squared Euclidian distances of the data points to a representative. However, the algorithm is sensitive to local optima.
 
+To understand the workings of the algorithm it is
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+1. implemented in single iterations and 
+2. used to determine the most dominant colours in an image
