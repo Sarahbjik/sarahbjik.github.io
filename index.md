@@ -12,7 +12,8 @@ Extracting data from PDF-files.
 <img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/fuchskusu_map.png?raw=true" width="450" />
 Do Possums in New Zealand migrate in far fetched areas or do they prefer to have a fixed territory?
 
-#### Carbon vs NOx
+#### [Carbon vs N2O](https://public.tableau.com/profile/sarah.reisenbauer#!/vizhome/Caremissions/Dashboard1)
+<img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/carbondioxide_vs_n2o.png?raw=true" width="450" />
 Are cars with high carbon emissions also bad at NOx?
 
 ### Nepal Earthquake - Random forest
