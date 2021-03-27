@@ -17,7 +17,7 @@ Are cars with high carbon emissions also bad at NOx?
 ### Nepal Earthquake - Random forest
 In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
 
-### [K-Means Algorithm - Inside the Code]("/Sarahbjik/representative_based_clustering")
+### [K-Means Algorithm - Inside the Code](representative_based_clustering/inside_kmeans.ipynb)
 
 <img src="https://github.com/Sarahbjik/representative_based_clustering/blob/main/kmeans_after_4_iterations.png?raw=true" width="450" />
 
