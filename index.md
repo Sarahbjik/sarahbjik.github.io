@@ -21,7 +21,7 @@ Are cars with high carbon emissions also bad at N2O?
 
 ### [Nepal Earthquake - Random forest](https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_earthquake.ipynb)
 
-<img src="https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_eq.png?raw=true" width="400" />
+<img src="https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_eq.png?raw=true" width="350" />
 
 In a 2015 earthquake in Nepal a lot of buildings were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
 
