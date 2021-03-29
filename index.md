@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio Page
 
-The page contains a compilation of some of the projects I have been working on.
+The page contains a compilation of the projects I have been working on.
 
 #
 
