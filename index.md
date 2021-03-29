@@ -2,6 +2,7 @@
 
 The page offers an insight into some of the projects I have been working on.
 
+#
 
 ### [Visualization with Tableau](http://tableau.com)
 
@@ -16,6 +17,7 @@ Do Possums in New Zealand migrate in far fetched areas or do they prefer to have
 
 Are cars with high carbon emissions also bad at N2O?
 
+#
 
 ### [Nepal Earthquake - Random forest](https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_earthquake.ipynb)
 
@@ -23,6 +25,7 @@ Are cars with high carbon emissions also bad at N2O?
 
 In a 2015 earthquake in Nepal a lot of buildings were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
 
+#
 
 ### [K-Means Algorithm - Inside the Code](https://github.com/Sarahbjik/representative_based_clustering/blob/main/inside_kmeans.ipynb)
 
@@ -35,6 +38,7 @@ To understand the workings of the algorithm it is
 1. implemented in single iterations and 
 2. used to determine the most dominant colours in an image
 
+#
 
 ### [A Big Data Quantum Physics Experiment](https://www.dropbox.com/preview/Dissertation/Reisenbauer_Thesis.pdf)
 
