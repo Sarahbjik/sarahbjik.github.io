@@ -44,7 +44,5 @@ My PhD thesis project included the construction and management of a Python based
 
 Publication:
 
-[Scalable spin–photon entanglement by time-to-polarization conversion](https://www.nature.com/articles/s41534-019-0236-x), *R. Vascon-
-celos, S. Reisenbauer, C. Salter, G. Wachter, D. Wirtitsch, J. Schmiedmayer, P. Walther,
-M. Trupke* (2020). Nature Physics Journal Quantum Information, 6(1), 1-5
+[Scalable spin–photon entanglement by time-to-polarization conversion](https://www.nature.com/articles/s41534-019-0236-x), *R. Vasconcelos, S. Reisenbauer, C. Salter, G. Wachter, D. Wirtitsch, J. Schmiedmayer, P. Walther, M. Trupke* (2020). Nature Physics Journal Quantum Information, 6(1), 1-5
 
