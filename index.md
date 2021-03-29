@@ -34,3 +34,17 @@ To understand the workings of the algorithm it is
 
 1. implemented in single iterations and 
 2. used to determine the most dominant colours in an image
+
+
+### [A Big Data Quantum Physics Experiment](https://www.dropbox.com/preview/Dissertation/Reisenbauer_Thesis.pdf)
+
+<img src="https://github.com/Sarahbjik/sarahbjik.github.io/blob/main/6_3_condProb.png?raw=true" width="400" />
+
+My PhD thesis project included the construction and management of a Python based environment for a quantum physics experiment. It involved the analysis of 430 TB of raw data in almost real time over the course of data capture within two weeks and to filter 25 relevant target events per hour. 
+
+Publication:
+
+[Scalable spin–photon entanglement by time-to-polarization conversion](https://www.nature.com/articles/s41534-019-0236-x) , __R. Vascon-
+celos, S. Reisenbauer, C. Salter, G. Wachter, D. Wirtitsch, J. Schmiedmayer, P. Walther,
+M. Trupke__(2020). Nature Physics Journal Quantum Information, 6(1), 1-5
+
