@@ -2,10 +2,6 @@
 
 The page offers an insight into some of the projects I have been working on.
 
-### The Early Days of Corona - a Data Scraping Problem
-Extracting data from PDF-files.
-
-<img src="https://github.com/Sarahbjik/corona/blob/main/austria_logistic_growth_2.png" width="550" />
 
 ### Visualization with Tableau
 
