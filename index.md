@@ -1,6 +1,6 @@
 ## Welcome to my Portfolio Page
 
-The page offers an insight into some projects I have been working on.
+The page offers an insight into some of the projects I have been working on.
 
 ### The Early Days of Corona - a Data Scraping Problem
 Extracting data from PDF-files.
@@ -19,8 +19,11 @@ Do Possums in New Zealand migrate in far fetched areas or do they prefer to have
 
 Are cars with high carbon emissions also bad at N2O?
 
-### Nepal Earthquake - Random forest
-In a 2015 earthquake a lot of buildings in Nepal were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
+### [Nepal Earthquake - Random forest](https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_earthquake.ipynb)
+
+<img src="https://github.com/Sarahbjik/nepal_earthquake_classification/blob/main/nepal_eq.png?raw=true" width="400" />
+
+In a 2015 earthquake in Nepal a lot of buildings were damaged. The severity of the damage was recorded along with parameters of the building. Is it possible to predict which houses are at higher risk in the future? 
 
 ### [K-Means Algorithm - Inside the Code](https://github.com/Sarahbjik/representative_based_clustering/blob/main/inside_kmeans.ipynb)
 
